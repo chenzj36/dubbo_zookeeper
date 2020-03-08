@@ -109,7 +109,7 @@ public class UserService {
 }
 ```
 - 为了@Reference不出错，导入所引用的类的完整路径和接口，项目结构如下    
-![enter description here](http://q5053ip41.bkt.clouddn.com/xsj/1581334814618.png)  
+![enter description here](https://aliyunosschenzj.oss-cn-beijing.aliyuncs.com/aliyunoss/1581334814618.png)  
 ##### 2.4 编写测试类(开启测试前打开zookeeper服务)
 ```
 package com.chenzj36;
